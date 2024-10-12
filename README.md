@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arman-can-759228329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arman-can-759228329" height="30" width="40" /></a>
 <a href="https://instagram.com/adil.nvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adil.nvm" height="30" width="40" /></a>
-<a href="https://wa.me/+918423448475" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="adil.nvm/whatsapp" height="30" width="40" /></a>
+<a href="https://wa.me/+918423448475" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904" alt="adil.nvm/whatsapp" height="40" width="40" /></a>
 <a href="https://discord.gg/stalin_xs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stalin_xs" height="30" width="40" /></a>
 </p>
 
