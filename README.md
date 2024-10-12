@@ -1,4 +1,4 @@
-[![MasterHead]((https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
+[![MasterHead]((https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)]
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
