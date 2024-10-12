@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilnvm&show_icons=true&locale=en" alt="adilnvm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilnvm&" alt="adilnvm" /></p>
-<img alt="Footer Image" width="full" src="https://media.tenor.com/GiO4XNKti44AAAAM/retrowave-synthwave.gif">
+<img alt="Footer Image" width="auto" src="https://media.tenor.com/GiO4XNKti44AAAAM/retrowave-synthwave.gif">
