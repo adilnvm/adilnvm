@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)]
+![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
