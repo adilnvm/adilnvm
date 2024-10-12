@@ -35,4 +35,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilnvm&show_icons=true&locale=en" alt="adilnvm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilnvm&" alt="adilnvm" /></p>
-<img alt="Footer Image" style="width: 920px; max-width: 100%; height: auto;" src="https://makeagif.com/i/wbKs1t">
+<img alt="Footer Image" style="width: 100%; max-width: 100%; height: auto;" src="https://media.tenor.com/GiO4XNKti44AAAAM/retrowave-synthwave.gif">
+<img alt="Footer Image" style="width: 100%; max-width: 100%; height: auto;" src="https://makeagif.com/i/wbKs1t">
+<img alt="Footer Image" style="width: 100%; max-width: 100%; height: auto;" src="[URL=/gif/driving-in-retro-futuristic-neon-city-screensaver-4k-wbKs1t][IMG]https://i.makeagif.com/media/3-02-2023/wbKs1t.gif[/IMG][/URL]">
+<img alt="Footer Image" style="width: 100%; max-width: 100%; height: auto;" src="![Driving In Retro Futuristic Neon City Screensaver 4K](https://i.makeagif.com/media/3-02-2023/wbKs1t.gif)">
+<a href="/gif/driving-in-retro-futuristic-neon-city-screensaver-4k-wbKs1t" title="Driving In Retro Futuristic Neon City Screensaver 4K"><img src="https://i.makeagif.com/media/3-02-2023/wbKs1t.gif" alt="Driving In Retro Futuristic Neon City Screensaver 4K"></a><div style="font-size:11px;">make <a href="/" title="make a gif">gaming GIFs</a> like this at MakeaGif</div>
+
+
