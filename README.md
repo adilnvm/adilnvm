@@ -16,11 +16,11 @@
 
 - 💬 Ask me about **Python ,JavaScript**
 
-- 📫 How to reach me: [abc@gmail.com](mailto:abc@gmail.com)
+- 📫 How to reach me: [iamarmaankhan07@gmail.com](mailto:iamarmaankhan07@gmail.com)
 
-- 📱 WhatsApp: [+1234567890](https://wa.me/1234567890)
+- 📱 WhatsApp: [+91 8423448475](https://wa.me/+918423448475)
 
-- 📞 Call: [+1234567890](tel:+1234567890
+- 📞 Call: [+91 8423448475](tel:+918423448475)
 
 - ⚡ Interests **Politics , Mathematics , History.**
 
